@@ -190,16 +190,6 @@ Alerts and Dashboard
 
 ---
 
-## Expected Outcomes
-
-* 15–30% reduction in electricity consumption
-* Lower monthly electricity bills
-* Improved household energy efficiency
-* Better visibility into appliance-level consumption
-* Data-driven energy management decisions
-
----
-
 ## Project Tagline
 
 **Analyze Smartly. Save Energy. Reduce Bills.**
