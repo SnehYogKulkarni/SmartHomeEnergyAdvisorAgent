@@ -17,15 +17,15 @@ The agent leverages a knowledge base containing smart meter data, appliance usag
 
 ## Problem Statement
 
-Most households receive only monthly electricity bills, which provide limited information about how electricity is being consumed. Users often do not know:
-
-* Which appliances consume the most electricity
-* Why electricity bills increase unexpectedly
-* How daily habits impact energy consumption
-* How to optimize appliance usage
-* What actions can reduce electricity costs
-
-As a result, electricity is often wasted unknowingly, leading to higher bills and inefficient energy management.
+The Challenge
+Rising electricity demand and energy costs make it difficult for households to understand how their daily habits impact power consumption. Most users only receive monthly bills, which provide limited insight into appliance-level energy usage. As a result, people often waste electricity unknowingly, highlighting the need for an AI-powered system that analyzes usage patterns and provides actionable energy-saving recommendations.
+The Objective
+Build an AI-powered Smart Home Energy Advisor Agent that analyzes household electricity consumption data and provides intelligent recommendations to optimize energy usage.
+1.	Energy Consumption Analysis – Analyze household electricity usage patterns from smart meters or appliance usage logs.
+2.	Personalized Energy Recommendations – Suggest energy-saving actions based on the user's consumption behavior and daily routines.
+3.	Appliance Usage Insights – Identify appliances that consume the most electricity and recommend optimal usage strategies.
+4.	Electricity Bill Estimation – Predict monthly electricity bills based on current usage patterns and tariff structures.
+5.	Energy Efficiency Suggestions – Recommend simple practices such as reducing peak-hour usage, scheduling heavy appliances, or upgrading to energy-efficient devices.
 
 ---
 
