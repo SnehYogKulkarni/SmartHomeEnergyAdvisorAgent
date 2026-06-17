@@ -1,7 +1,5 @@
 # SmartHomeEnergyAdvisorAgent
 
-# Smart Home Energy Advisor Agent
-
 ## AI-Powered Personalized Energy Management System
 
 **Platform:** IBM Cloud
